@@ -5,6 +5,7 @@ from PIL import Image
 from transformers import Blip2Processor, Blip2ForConditionalGeneration
 from tqdm import tqdm
 
+MODE = "short"
 IMAGE_DIR = "images"
 OUTPUT_DIR = "outputs"
 
@@ -29,4 +30,4 @@ for image_file in tqdm(image_files):
     captions.append(caption)
 
     captions_df = pd.DataFrame(captions)
-    captions_df.to_json(os.path.join(OUTPUT_DIR, "blip2_short.jsonl"), orient="records", force_ascii=False, lines=True)
+    captions_df.to_json(os.path.join(OUTPUT_DIR, f"blip2_{MODE}.jsonl"), orient="records", force_ascii=False, lines=True)

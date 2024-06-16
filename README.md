@@ -2,16 +2,14 @@ If there is no provided prompt in the paper, use the following prompts.
 - **Prompt (short)**: "Describe the image concisely"
 - **Prompt (long)**: "Describe the image in detail."
 
-## BLIP-2
+## ✅BLIP-2
 - **Model**: [BLIP-2 OPT-2.7b](https://huggingface.co/Salesforce/blip2-opt-2.7b)
 - **Paper**: [BLIP-2 Paper](https://arxiv.org/pdf/2301.12597)
-- **Prompt (short)**: “a photo of”
-- **Prompt (long)**: Not Found
 
-## InstructBLIP
+## ✅InstructBLIP
 - **Model**: [InstructBLIP Vicuna-7B](https://huggingface.co/Salesforce/instructblip-vicuna-7b)
 - **Paper**: [InstructBLIP Paper](https://arxiv.org/pdf/2305.06500)
-- **Prompt (short)**: "\<Image\> A short image description:"
+- **Prompt (short)**: "A short image description:"
 - **Prompt (long)**: Not Found
 
 ## Qwen-VL
