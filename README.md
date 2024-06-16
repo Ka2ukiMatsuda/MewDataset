@@ -1,5 +1,5 @@
 If there is no provided prompt in the paper, use the following prompts.
-- **Prompt (short)**: "Describe the image concisely"
+- **Prompt (short)**: "Provide a one-sentence caption for the provided image."
 - **Prompt (long)**: "Describe the image in detail."
 
 ## ✅BLIP-2
@@ -12,8 +12,8 @@ If there is no provided prompt in the paper, use the following prompts.
 - **Prompt (short)**: "A short image description:"
 - **Prompt (long)**: Not Found
 
-## Qwen-VL
-- **Model**: [Qwen-VL](https://huggingface.co/Qwen/Qwen-VL)
+## ✅Qwen-VL
+- **Model**: [Qwen-VL](https://huggingface.co/Qwen/Qwen-VL-Chat)
 - **Paper**: [Qwen-VL Paper](https://arxiv.org/pdf/2308.12966)
 - **Prompt (short)**: "Describe the image in English:"
 - **Prompt (long)**: Not Found
@@ -30,7 +30,7 @@ If there is no provided prompt in the paper, use the following prompts.
 - **Prompt (short)**: "Describe the image concisely."
 - **Prompt (long)**: "Describe the following image in detail."
 
-## LLaVA 1.5
+## ✅LLaVA 1.5
 - **Model**: [LLaVA 1.5](https://huggingface.co/liuhaotian/llava-v1.5-7b)
 - **Paper**: [LLaVA 1.5 Paper](https://arxiv.org/pdf/2310.03744)
 - **Prompt (short)**: "Provide a one-sentence caption for the provided image."
