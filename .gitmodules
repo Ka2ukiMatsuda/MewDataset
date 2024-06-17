@@ -1,0 +1,3 @@
+[submodule "mPLUG-Owl"]
+	path = mPLUG-Owl
+	url = https://github.com/X-PLUG/mPLUG-Owl.git
