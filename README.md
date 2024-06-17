@@ -36,13 +36,13 @@ If there is no provided prompt in the paper, use the following prompts.
 - **Prompt (short)**: "Provide a one-sentence caption for the provided image."
 - **Prompt (long)**: Not Found
 
-## mPLUG-Owl-7B
+## ✅mPLUG-Owl-7B
 - **Model**: [mPLUG-Owl-7B](https://huggingface.co/MAGAer13/mplug-owl-llama-7b)
 - **Paper**: [mPLUG-Owl-7B Paper](https://arxiv.org/pdf/2304.14178)
 - **Prompt (short)**: "USER: <|image|>Provide a one-sentence caption for the provided image. ASSISTANT: "
 - **Prompt (long)**: "<|image|>Describe the image."
 
-## mPLUG-Owl2-7B
+## ✅mPLUG-Owl2-7B
 - **Model**: [mPLUG-Owl2-7B](https://huggingface.co/MAGAer13/mplug-owl2-llama2-7b)
 - **Paper**: [mPLUG-Owl2-7B Paper](https://arxiv.org/pdf/2311.04257)
 - **Prompt (short)**: "USER: Provide a one-sentence caption for the provided image. ASSISTANT: "
