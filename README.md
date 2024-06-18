@@ -24,7 +24,7 @@ If there is no provided prompt in the paper, use the following prompts.
 - **Prompt (short)**: Not Found
 - **Prompt (long)**: "Describe this image in detail."
 
-## LLaVA
+## ✅LLaVA
 - **Model**: [LLaVA](https://github.com/haotian-liu/LLaVA)
 - **Paper**: [LLaVA Paper](https://arxiv.org/pdf/2304.08485)
 - **Prompt (short)**: "Describe the image concisely."
@@ -54,8 +54,20 @@ If there is no provided prompt in the paper, use the following prompts.
 - **Prompt (short)**: Not Found
 - **Prompt (long)**: "Can you describe the image?"
 
-## Otter
+## ShareGPT4v-7B
 - **Model**: [Otter](https://github.com/Luodian/Otter?tab=readme-ov-file), [Otter Model](https://huggingface.co/luodian/OTTER-Image-MPT7B)
 - **Paper**: [Otter Paper](https://arxiv.org/pdf/2305.03726)
 - **Prompt (short)**: Not Found
 - **Prompt (long)**: f"\<image>User: What does the image describe? GPT:\<answer>"
+
+## InternVL-Chat-4B
+- **Model**: [InternVL](https://huggingface.co/OpenGVLab/Mini-InternVL-Chat-4B-V1-5)
+- **Paper**: [InternVL Paper](https://arxiv.org/pdf/2404.16821)
+- **Prompt (short)**: ??
+- **Prompt (long)**: ??
+
+## GPT-4o
+- **Prompt (short)**: Not Found
+- **Prompt (long)**: f"\<image>User: What does the image describe? GPT:\<answer>"
+
+## Gemini-Pro-1.5

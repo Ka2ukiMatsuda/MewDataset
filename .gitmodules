@@ -1,3 +1,12 @@
 [submodule "mPLUG-Owl/mPLUG-Owl"]
 	path = mPLUG-Owl/mPLUG-Owl
 	url = https://github.com/X-PLUG/mPLUG-Owl.git
+[submodule "MiniGPT-4/MiniGPT-4"]
+	path = MiniGPT-4/MiniGPT-4
+	url = https://github.com/Vision-CAIR/MiniGPT-4.git
+[submodule "Otter/Otter"]
+	path = Otter/Otter
+	url = https://github.com/Luodian/Otter.git
+[submodule "Multimodal-GPT/Multimodal-GPT"]
+	path = Multimodal-GPT/Multimodal-GPT
+	url = https://github.com/open-mmlab/Multimodal-GPT.git
