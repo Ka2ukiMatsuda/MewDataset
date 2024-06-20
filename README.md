@@ -60,7 +60,7 @@ If there is no provided prompt in the paper, use the following prompts.
 - **Prompt (short)**: Not Found
 - **Prompt (long)**: Not Found
 
-## InternVL-Chat-4B
+## ✅InternVL-Chat-4B
 - **Model**: [InternVL](https://huggingface.co/OpenGVLab/Mini-InternVL-Chat-4B-V1-5)
 - **Paper**: [InternVL Paper](https://arxiv.org/pdf/2404.16821)
 - **Prompt (short)**: ??
