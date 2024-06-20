@@ -18,7 +18,7 @@ If there is no provided prompt in the paper, use the following prompts.
 - **Prompt (short)**: "Describe the image in English:"
 - **Prompt (long)**: Not Found
 
-## MiniGPT-4
+## [wip]MiniGPT-4
 - **Model**: [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4)
 - **Paper**: [MiniGPT-4 Paper](https://arxiv.org/pdf/2304.10592)
 - **Prompt (short)**: Not Found
@@ -54,11 +54,11 @@ If there is no provided prompt in the paper, use the following prompts.
 - **Prompt (short)**: Not Found
 - **Prompt (long)**: "Can you describe the image?"
 
-## ShareGPT4v-7B
-- **Model**: [Otter](https://github.com/Luodian/Otter?tab=readme-ov-file), [Otter Model](https://huggingface.co/luodian/OTTER-Image-MPT7B)
-- **Paper**: [Otter Paper](https://arxiv.org/pdf/2305.03726)
+## ✅ShareGPT4V-7B
+- **Model**: [ShareGPT4V](https://github.com/ShareGPT4Omni/ShareGPT4V/tree/master), [Otter Model](https://huggingface.co/Lin-Chen/ShareGPT4V-7B)
+- **Paper**: [Otter Paper](https://arxiv.org/pdf/2311.12793)
 - **Prompt (short)**: Not Found
-- **Prompt (long)**: f"\<image>User: What does the image describe? GPT:\<answer>"
+- **Prompt (long)**: Not Found
 
 ## InternVL-Chat-4B
 - **Model**: [InternVL](https://huggingface.co/OpenGVLab/Mini-InternVL-Chat-4B-V1-5)
@@ -67,7 +67,9 @@ If there is no provided prompt in the paper, use the following prompts.
 - **Prompt (long)**: ??
 
 ## GPT-4o
-- **Prompt (short)**: Not Found
-- **Prompt (long)**: f"\<image>User: What does the image describe? GPT:\<answer>"
+- **Prompt (short)**: ??
+- **Prompt (long)**: ??
 
 ## Gemini-Pro-1.5
+- **Prompt (short)**: ??
+- **Prompt (long)**: ??

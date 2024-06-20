@@ -10,3 +10,6 @@
 [submodule "Multimodal-GPT/Multimodal-GPT"]
 	path = Multimodal-GPT/Multimodal-GPT
 	url = https://github.com/open-mmlab/Multimodal-GPT.git
+[submodule "ShareGPT4V/ShareGPT4V"]
+	path = ShareGPT4V/ShareGPT4V
+	url = https://github.com/ShareGPT4Omni/ShareGPT4V.git
