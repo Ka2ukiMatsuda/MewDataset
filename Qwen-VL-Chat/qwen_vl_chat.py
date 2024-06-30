@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 torch.manual_seed(1234)
 
-MODE = "long"  # 'short' または 'long' を設定
+MODE = "short"  # 'short' または 'long' を設定
 IMAGE_DIR = "images"
 OUTPUT_DIR = "outputs"
 

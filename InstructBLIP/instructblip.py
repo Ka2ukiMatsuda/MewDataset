@@ -5,7 +5,7 @@ from PIL import Image
 from transformers import InstructBlipProcessor, InstructBlipForConditionalGeneration
 from tqdm import tqdm
 
-MODE = "long"  # 'short' または 'long' を設定
+MODE = "short"  # 'short' または 'long' を設定
 IMAGE_DIR = "images"
 OUTPUT_DIR = "outputs"
 

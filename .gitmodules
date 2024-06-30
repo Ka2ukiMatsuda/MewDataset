@@ -13,3 +13,6 @@
 [submodule "ShareGPT4V/ShareGPT4V"]
 	path = ShareGPT4V/ShareGPT4V
 	url = https://github.com/ShareGPT4Omni/ShareGPT4V.git
+[submodule "DCI"]
+	path = DCI
+	url = https://github.com/facebookresearch/DCI.git

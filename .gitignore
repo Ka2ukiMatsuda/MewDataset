@@ -2,8 +2,5 @@
 .vscode
 .DS_Store
 images/
-flickr30k/
-CrowdFlowerAnnotations.txt
-ExpertAnnotations.txt
-flickr30k_test_captions.jsonl
-flickr30k_val_captions.jsonl
+localized_narratives/
+DCI/
