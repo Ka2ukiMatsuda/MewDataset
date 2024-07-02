@@ -24,17 +24,18 @@ If there is no provided prompt in the paper, use the following prompts.
 - **Prompt (short)**: Not Found
 - **Prompt (long)**: "Describe this image in detail."
 
-## ✅LLaVA
-- **Model**: [LLaVA](https://github.com/haotian-liu/LLaVA)
-- **Paper**: [LLaVA Paper](https://arxiv.org/pdf/2304.08485)
-- **Prompt (short)**: "Describe the image concisely."
-- **Prompt (long)**: "Describe the following image in detail."
 
 ## ✅LLaVA 1.5
 - **Model**: [LLaVA 1.5](https://huggingface.co/liuhaotian/llava-v1.5-7b)
 - **Paper**: [LLaVA 1.5 Paper](https://arxiv.org/pdf/2310.03744)
 - **Prompt (short)**: "Provide a one-sentence caption for the provided image."
 - **Prompt (long)**: Not Found
+
+## ✅LLaVA-NeXT
+- **Model**: [LLaVA](https://huggingface.co/llava-hf/llava-v1.6-mistral-7b-hf)
+- **Paper**: [LLaVA Paper](https://arxiv.org/pdf/2304.08485)
+- **Prompt (short)**: "Describe the image concisely."
+- **Prompt (long)**: "Describe the following image in detail."
 
 ## ✅mPLUG-Owl-7B
 - **Model**: [mPLUG-Owl-7B](https://huggingface.co/MAGAer13/mplug-owl-llama-7b)
