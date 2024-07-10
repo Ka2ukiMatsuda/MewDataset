@@ -5,7 +5,7 @@ from PIL import Image
 from transformers import AutoProcessor, LlavaForConditionalGeneration
 from tqdm import tqdm
 
-MODE = "short"  # 'short' または 'long' を設定
+MODE = "long"  # 'short' または 'long' を設定
 IMAGE_DIR = "images"
 OUTPUT_DIR = "outputs"
 
